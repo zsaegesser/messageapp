@@ -1,5 +1,1 @@
-P6
-# CREATOR: GIMP PNM Filter Version 1.1
-32 16
-255
-^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^$
+work pleaseeeeeee
